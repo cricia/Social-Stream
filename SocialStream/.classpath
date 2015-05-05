@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="/Users/cricia/Downloads/javatuples-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/cricia/Documents/workspace-sts-3.4.0.RELEASE/SocialStream/lib/colt.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/cricia/Documents/workspace-sts-3.4.0.RELEASE/SocialStream/lib/concurrent.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/cricia/Documents/workspace-sts-3.4.0.RELEASE/SocialStream/lib/mahout-core-0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/cricia/Documents/workspace-sts-3.4.0.RELEASE/SocialStream/lib/fastutil-6.4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
